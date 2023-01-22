@@ -1,7 +1,6 @@
 import {
   FaWhatsapp,
   FaHtml5,
-  FaCss3,
   FaUser,
   FaNodeJs,
   FaReact,
