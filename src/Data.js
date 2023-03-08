@@ -84,7 +84,7 @@ export const experiences = [
   {
     id: 1,
     year: "2022",
-    position: "Front-End Developer",
+    position: "UI Developer",
     company: "Artanis Cloud Sdn Bhd",
   },
   {
